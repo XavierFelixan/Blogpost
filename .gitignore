@@ -1,4 +1,3 @@
 __pycache__/
 .env
-venv/
 instance/new_posts.db
