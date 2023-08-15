@@ -1,2 +1,4 @@
+__pycache__/
 .env
-new_posts.db
+venv/
+instance/new_posts.db
