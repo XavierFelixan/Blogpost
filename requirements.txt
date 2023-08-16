@@ -8,3 +8,5 @@ Flask_WTF==1.1.1
 Werkzeug==2.3.6
 WTForms==3.0.1
 SQLAlchemy==2.0.19
+dotenv==16.1.0
+email_validator==2.0.0
